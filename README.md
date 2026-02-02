@@ -1,9 +1,6 @@
+<
 # Fraud Detection System
 
-A full-stack machine learning project focused on detecting fraudulent financial transactions using supervised learning and anomaly detection techniques.
-This project is designed as a **production-style ML system**, progressing from data exploration to model deployment.
-
----
 
 ## 📌 Problem Statement
 
@@ -105,3 +102,4 @@ This project follows a structured **24-week roadmap**, progressing through:
 * Deployment and final presentation
 
 🚧 **Current Status:** Week 1 — Data Exploration & Foundations
+
