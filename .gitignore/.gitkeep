@@ -2,17 +2,16 @@
 __pycache__/
 *.pyc
 
-# Data
-data/raw/*
-!data/raw/.gitkeep
-
-# Models
-models/*.pkl
-models/*.joblib
-
-# Notebooks
-.ipynb_checkpoints/
-
-# Env
-.env
+# Virtual environment
 venv/
+.env/
+
+# Data files
+data/raw/
+data/processed/
+
+# OS files
+.DS_Store
+
+# Jupyter
+.ipynb_checkpoints/
